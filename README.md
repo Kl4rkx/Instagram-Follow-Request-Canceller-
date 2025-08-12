@@ -1,4 +1,5 @@
 # Instagram Follow Request Canceller 🚫
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 
 Este script automatiza la cancelación de solicitudes de seguimiento pendientes en Instagram usando Selenium y Microsoft Edge.
 
