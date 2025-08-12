@@ -64,7 +64,7 @@ Una vez descargado el archivo ZIP:
 ```bash
 "python main.py"
 ```
-- Se abrirá una ventana de Edge. Inicia sesión manualmente en Instagram
+- Se abrirá una ventana de Edge. Inicia sesión manualmente en Instagram. Una vez que hayas iniciado sesión, vuelve a la terminal donde se está ejecutando el script y presiona Enter para continuar.
 
 - El script comenzará a recorrer los perfiles y cancelará las solicitudes que estén marcadas como "Pendiente"
 
