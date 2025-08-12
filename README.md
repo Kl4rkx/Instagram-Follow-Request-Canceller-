@@ -66,6 +66,8 @@ Una vez descargado el archivo ZIP:
 ```
 - Se abrirá una ventana de Edge. Inicia sesión manualmente en Instagram. Una vez que hayas iniciado sesión, vuelve a la terminal donde se está ejecutando el script y presiona Enter para continuar.
 
+- Importante: No minimices la ventana del navegador mientras se ejecuta el script. Puedes abrir otras ventanas encima o cambiar de aplicación, pero mantener la ventana visible (aunque esté en segundo plano) es necesario para que el script funcione correctamente.
+
 - El script comenzará a recorrer los perfiles y cancelará las solicitudes que estén marcadas como "Pendiente"
 
 ## ✅ Resultado
