@@ -79,3 +79,13 @@ Una vez descargado el archivo ZIP:
 Este script interactúa con Instagram de forma automatizada. Usa el script con moderación para evitar bloqueos temporales o restricciones en tu cuenta.
 
 No se recomienda ejecutar más de 50 cancelaciones seguidas sin pausas. Instagram puede detectar actividad automatizada si se abusa del proceso.
+
+---
+
+## 🌐 Compatibilidad de idioma
+
+Este script está diseñado para funcionar con Instagram configurado en **Español (España)**.
+
+Si usas otro idioma, los textos de los botones pueden variar (por ejemplo, "Pending" en inglés), lo que impediría que el script los detecte correctamente.
+
+📌 Si deseas adaptarlo a otro idioma, puedes modificar las líneas del script que buscan los botones por texto, como `"Pendiente"` o `"Dejar de seguir"`.
