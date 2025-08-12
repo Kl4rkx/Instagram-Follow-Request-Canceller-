@@ -84,7 +84,8 @@ No se recomienda ejecutar más de 50 cancelaciones seguidas sin pausas. Instagra
 
 ## 🌐 Compatibilidad de idioma
 
-Este script está diseñado para funcionar con Instagram configurado en **Español (España)**.
+Este script está diseñado para funcionar con Instagram configurado en **Español (España)**.  
+También incluye soporte **experimental para Inglés (English)**, aunque puede requerir ajustes si el texto de los botones varía según la región o versión de la interfaz.
 
 Si usas otro idioma, los textos de los botones pueden variar (por ejemplo, "Pending" en inglés), lo que impediría que el script los detecte correctamente.
 
