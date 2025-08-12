@@ -92,3 +92,17 @@ También incluye soporte **experimental para Inglés (English)**, aunque puede r
 Si usas otro idioma, los textos de los botones pueden variar (por ejemplo, "Pending" en inglés), lo que impediría que el script los detecte correctamente.
 
 📌 Si deseas adaptarlo a otro idioma, puedes modificar las líneas del script que buscan los botones por texto, como `"Pendiente"` o `"Dejar de seguir"`.
+
+---
+
+## ⚖️ Legal y Licencia
+
+**Aviso legal:** Esta herramienta no está afiliada, asociada, autorizada, respaldada ni conectada oficialmente con Instagram.  
+Instagram es una marca registrada de Meta Platforms, Inc.
+
+⚠️ **Úsalo bajo tu propia responsabilidad**
+
+📜 Licenciado bajo la Licencia MIT  
+✅ Libre para usar, copiar y modificar  
+🤝 Código abierto y amigable con la comunidad  
+📋 Consulta el archivo [LICENSE completo en GitHub](https://github.com/Kl4rkx/Instagram-Follow-Request-Canceller-/blob/main/LICENSE) para conocer los términos
